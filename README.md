@@ -6,4 +6,4 @@ A IP finder made in Java using Swing. It takes domain name as input and gives yo
 |------------------|---------------|
 | Linux            | [Release 1.0] |
 
-[Release 1.0] = https://github.com/Sudeep-Sharma0-0/SwingGUIProject1/releases/download/jar/SwingGUIProject_1.jar
+[Release 1.0] : https://github.com/Sudeep-Sharma0-0/SwingGUIProject1/releases/download/jar/SwingGUIProject_1.jar
